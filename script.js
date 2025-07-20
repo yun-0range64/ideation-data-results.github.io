@@ -264,6 +264,3 @@ function renderTable() {
 //     btn.disabled = !unlocked; // 체크 되어 있으면 활성화, 아니면 잠금
 //   });
 // });
-
-
-
